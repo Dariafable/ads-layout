@@ -3,7 +3,6 @@
 # Установка
 
 <ol>
-    <li>git clone</li>
     <li>npm i</li>
 </ol>
 
